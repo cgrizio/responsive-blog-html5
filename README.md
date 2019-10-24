@@ -1,1 +1,0 @@
-# responsive-blog-html5
